@@ -1,0 +1,28 @@
+img.intro {
+    display: block; margin-top: 0px; margin: 0px auto;
+}
+p {
+    font-family: Andale Mono,AndaleMono,monospace;
+    font-size: 14px;
+    font-weight: light;
+}
+h1 {
+    font-family: Andale Mono,AndaleMono,monospace;
+    font-size: 17px;
+    font-weight: light;
+    text-decoration: underline;
+}
+a:link    {color: rgba(18, 41, 72, 0.72); background-color:transparent; text-decoration:none}
+a:visited {color: rgb(102, 100, 99); background-color:transparent; text-decoration:none}
+a:hover   {color:black; background-color:transparent; text-decoration:none}
+a:active  {color:yellow; background-color:transparent; text-decoration:underline}
+
+ul {
+    font-family: Andale Mono,AndaleMono,monospace;
+    font-size: 14px;
+    font-weight: light;
+}
+
+footer {
+    display: bottom; margin-bottom: 0px;
+}
